@@ -8,3 +8,10 @@ Used “git add branchFile.txt” to add the file to staging area
 Used “git commit -m” and committed the changes
 Added this text to the file 
 After that I will use “git push —set-upstream origin feature-a” to push this branch to Github
+Did a "pull request" on the Github
+Deleted the feature-a branch
+Using the command "git pull" downloaded from GitHub the latest changes I made
+Added this text to the file
+git add .
+git commit
+git push
