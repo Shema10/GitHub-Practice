@@ -10,3 +10,6 @@ Used “git add . “ to add the file again this command adds everything from th
 Used “git commit -m "git internship task” “ to basically create a save  point for this file
 Used “git log “  to get the info about the commit
 Used “git show (hash code)” to check the actual changes
+Used git restore to delete the changes I've made
+Used “git diff” to check the difference with the previous version what it does is gives you the difference of what you have in current working directory and what has been committed
+Used  “git add .” to add the changed file to staging area
