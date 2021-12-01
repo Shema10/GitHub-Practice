@@ -13,3 +13,5 @@ Used “git show (hash code)” to check the actual changes
 Used git restore to delete the changes I've made
 Used “git diff” to check the difference with the previous version what it does is gives you the difference of what you have in current working directory and what has been committed
 Used  “git add .” to add the changed file to staging area
+Used "git commit " to commit the changes
+Created a git repository on GitHub
