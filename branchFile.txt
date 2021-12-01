@@ -1,0 +1,6 @@
+Created a branch named feature-a using command “git branch feature-a”
+Used command “git checkout feature-a” to switch to a new branch,( to switch back to previous branch I used “git checkout -“
+
+—-On the new branch—-
+Created a new file named branchFile.txt on the branch feature-a
+Added some text to it to describe what I did
